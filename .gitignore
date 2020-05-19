@@ -1,0 +1,7 @@
+#ingnore python cache
+__pycache__/
+
+#ignore files used for testing
+*.asm
+*.h
+*.bin
