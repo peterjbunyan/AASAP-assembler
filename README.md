@@ -2,7 +2,7 @@
 An assembler for the homemade computer AASAP - Almost As Simple As Possible.
 
 ## Description 
-Takes in assembly language and outputs machine code as a binary file, or a header file for use with a standalone Arduino bootstrap.
+Takes in assembly language and outputs machine code as a binary file, or a header file for use with a standalone Arduino bootloader.
 
 Support labels and the following instructions:
 * `NOP`: No operation
